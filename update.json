@@ -1,7 +1,7 @@
 {
-  "version": "2.10.1",
+  "version": "2.10.2",
   "requires": "6.0",
   "requires_php": "7.4",
-  "download_url": "https://raw.githubusercontent.com/andr3ixx/starboard-reviews-updates/main/releases/2.10.1/starboard-reviews-2.10.1.zip",
-  "sha256": "fc9c32cb4716d774018e4209bea09939bbc856868b6fe3b9b1ded114282e546c"
+  "download_url": "https://raw.githubusercontent.com/andr3ixx/starboard-reviews-updates/main/releases/2.10.2/starboard-reviews-2.10.2.zip",
+  "sha256": "f5599965842b65b516b7fd49444f9cb63d857cd45001d076c371696ae6b5f7f0"
 }
