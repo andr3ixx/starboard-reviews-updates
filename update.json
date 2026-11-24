@@ -1,0 +1,7 @@
+{
+  "version": "2.9.0",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "download_url": "https://raw.githubusercontent.com/andr3ixx/starboard-reviews-updates/main/releases/2.9.0/starboard-reviews-2.9.0.zip",
+  "sha256": "174081ca63eaa9a3aed0e6eef4df971b04b86366bed0d8b6b6407d13205d640c"
+}
