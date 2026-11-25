@@ -1,0 +1,7 @@
+{
+  "version": "3.0.2",
+  "requires": "6.0",
+  "requires_php": "7.4",
+  "download_url": "https://raw.githubusercontent.com/andr3ixx/starboard-reviews-updates/main/ui/releases/3.0.2/starboard-ui-3.0.2.zip",
+  "sha256": "1d19d0230fc92969d520be52aca19aaba09f94d6a74b26bc091ecdc3631bde1e"
+}
